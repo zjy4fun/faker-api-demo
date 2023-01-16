@@ -1,0 +1,25 @@
+{
+  "name": "faker-api-demo",
+  "version": "1.0.0",
+  "description": "### 参考",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjy4fun/faker-api-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjy4fun/faker-api-demo/issues"
+  },
+  "homepage": "https://github.com/zjy4fun/faker-api-demo#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
